@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak-keshri
 - 👀 I’m interested in programming language.
-- 🌱 I’m currently learning php, react and java.
+- 🌱 I’m currently learning php and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
